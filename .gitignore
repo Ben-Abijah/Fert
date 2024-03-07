@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+##### Ben
+# ignore raw_data (could possibly leave a link to it or mention its source)
+raw_data/
+
+# ignore .DS_Store ('cos it has no relevance on other computers)
+.DS_Store
